@@ -8,8 +8,8 @@
   
   - [osTicket: Post-Installation Configuration](https://github.com/MickaliaR/post-install-configs)
   - [osTicket: Ticket Lifecycle](https://github.com/MickaliaR/osTicket--Ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+- <b>Microsoft Azure</b>d
+  - [Configuring Active Directory within Azure VMs](https://github.com/MickaliaR/Configuring-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
